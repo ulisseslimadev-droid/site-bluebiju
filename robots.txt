@@ -1,0 +1,9 @@
+# robots.txt da Blue Biju Makeup
+# Libera todo o site para os buscadores, inclusive CSS, JS e imagens,
+# que o Google precisa para avaliar a versão para celular.
+
+User-agent: *
+Allow: /
+Disallow: /assets/images/LEIA-ME.txt
+
+Sitemap: https://www.bluebijumakeup.com.br/sitemap.xml

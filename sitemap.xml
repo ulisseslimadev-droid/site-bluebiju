@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap da Blue Biju Makeup
+  ⚠️ Se o domínio for diferente, troque "https://www.bluebijumakeup.com.br" em todo o arquivo.
+  Atualize <lastmod> sempre que mudar produtos ou textos do site.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.bluebijumakeup.com.br/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/categoria-maquiagem.jpg</image:loc>
+      <image:title>Maquiagens da Blue Biju Makeup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/categoria-bijuterias.jpg</image:loc>
+      <image:title>Colar e brincos de flor azul da Blue Biju</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/categoria-acessorios.jpg</image:loc>
+      <image:title>Tiara dourada e brincos de estrela-do-mar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-gloss.jpg</image:loc>
+      <image:title>Gloss Lip Glossy Dailus</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-paleta-sombras.jpg</image:loc>
+      <image:title>Paleta de sombras cintilantes</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-base-liquida.jpg</image:loc>
+      <image:title>Base líquida Hidra Glow Niina Secrets</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-kit-pinceis.jpg</image:loc>
+      <image:title>Kit de pincéis de maquiagem</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-brinco-argola.jpg</image:loc>
+      <image:title>Brinco argola</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-colar-delicado.jpg</image:loc>
+      <image:title>Colar delicado com pingente de gota</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-pulseira.jpg</image:loc>
+      <image:title>Pulseiras com pedras brilhantes</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-presilha.jpg</image:loc>
+      <image:title>Presilha de cabelo marmorizada</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-esmaltes.jpg</image:loc>
+      <image:title>Esmaltes Anita coleção Rio</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-depilacao.jpg</image:loc>
+      <image:title>Cera depilatória Depil Bella Chocolate Branco</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-salon-line.jpg</image:loc>
+      <image:title>Linha Salon Line Pink Lemonade</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.bluebijumakeup.com.br/assets/images/produto-eletronicos.jpg</image:loc>
+      <image:title>Cabine UV/LED Sun 5 para unhas</image:title>
+    </image:image>
+  </url>
+</urlset>
