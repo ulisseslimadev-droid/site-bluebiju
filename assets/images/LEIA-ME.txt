@@ -1,0 +1,9 @@
+Fotos usadas no site (troque mantendo o mesmo nome do arquivo):
+
+logo.png / logo-branco.png / favicon.png  -> logo oficial (azul e branca)
+categoria-maquiagem.jpg / categoria-bijuterias.jpg / categoria-acessorios.jpg
+produto-*.jpg -> cards de "Queridinhos da Blue" (lista em js/script.js)
+
+Se alguma foto faltar, o card mostra um fundo suave com o nome do arquivo.
+
+Dica: .jpg ou .webp com até ~250 KB cada para o site ficar rápido.
