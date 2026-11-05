@@ -6,4 +6,4 @@ User-agent: *
 Allow: /
 Disallow: /assets/images/LEIA-ME.txt
 
-Sitemap: https://www.bluebijumakeup.com.br/sitemap.xml
+Sitemap: https://www.bluebiju.com.br/sitemap.xml
